@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **jlnpinheiro/jlnpinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Olá,
+### Olá! 👋
 
 Sou um programador com experiência em desenvolvimento Fullstack Web (atuando desde 2004). Já participei de vários projetos, desenvolvendo sistemas para as mais diversas áreas: siderurgia, geo-posicionamento, sistemas hospitalares, folha de pagamento, entre outros.
 
