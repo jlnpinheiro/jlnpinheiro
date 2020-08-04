@@ -26,3 +26,4 @@ Meus contatos:
 😁 [Meu site](https://www.jnogueira.dev.br)<br/>
 💼 [LinkedIn](https://www.linkedin.com/in/jlnpinheiro)<br/>
 😎 [Instagram](https://www.instagram.com/jlnpinheiro)<br/>
+✉ E-mail: jlnpinheiro@gmail.com
