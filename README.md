@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Olá! 👋
 
-Sou um programador com experiência em desenvolvimento Fullstack Web (atuando desde 2004). Já participei de vários projetos, desenvolvendo sistemas para as mais diversas áreas: siderurgia, geo-posicionamento, sistemas hospitalares, folha de pagamento, entre outros.
+Sou um programador com experiência em desenvolvimento Web (atuando desde 2004). Já participei de vários projetos, desenvolvendo sistemas para as mais diversas áreas: siderurgia, geo-posicionamento, sistemas hospitalares, folha de pagamento, entre outros.
 
 Atualmente trabalho na Secretaria da Fazendo do Estado do Espírito Santo, como analista de TI, desenvolvendo sistemas com foco no desenvolvimento .NET (front e backend). No meu tempo livre, trabalho como programador freelancer.
 
