@@ -24,6 +24,6 @@ Atualmente trabalho na Secretaria da Fazendo do Estado do Espírito Santo, como 
 Meus contatos:
 
 😁 [Meu site](https://www.jnogueira.dev.br)<br/>
+:white_check_mark: [WhatsApp](https://api.whatsapp.com/send?phone=5527992327525)<br/>
 💼 [LinkedIn](https://www.linkedin.com/in/jlnpinheiro)<br/>
-😎 [Instagram](https://www.instagram.com/jlnpinheiro)<br/>
 ✉ E-mail: jlnpinheiro@gmail.com
