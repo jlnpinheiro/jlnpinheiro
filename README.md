@@ -22,6 +22,7 @@ Sou um programador com experiência em desenvolvimento Web (atuando desde 2004).
 Atualmente trabalho na Secretaria da Fazendo do Estado do Espírito Santo, como analista de TI, desenvolvendo sistemas com foco no desenvolvimento .NET (front e backend). No meu tempo livre, trabalho como programador freelancer.
 
 ![Anurag's GitHub stats](https://github-readme-stats-phi-six-57.vercel.app/api?username=jlnpinheiro&show_icons=true&theme=merko&hide=contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlnpinheiro&show_icons=true&theme=merko&hide=contribs)
 
 ![Top Langs](https://github-readme-stats-phi-six-57.vercel.app/api/top-langs/?username=jlnpinheiro&layout=compact&theme=merko)
 
