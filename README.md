@@ -17,14 +17,13 @@ Here are some ideas to get you started:
 
 ### Olá! 👋
 
-Atuando desde 2004 na área de programação, me dedico ao desenvolvimento de aplicações web utilizando a plataforma Microsoft .NET e a linguagem de programação C#. Durante este tempo, procurei por me expecializar em desenvolver soluções inovadoras e eficientes para as necessidades dos clientes, utilizando as tecnologias mais avançadas disponíveis no mercado.
+Desde 2004, atuo no desenvolvimento de aplicações web com a plataforma Microsoft .NET e a linguagem C#. Minha especialização é criar soluções inovadoras e eficientes, utilizando tecnologias avançadas.
 
-Minha experiência inclui a criação de aplicações web desde a concepção inicial até a implementação e manutenção, bem como a otimização de sistemas existentes. Possuo conhecimento nas ferramentas e tecnologias relacionadas a plataforma .NET, incluindo ASP.NET, MVC, WebAPI, Background services, Entity Framework e SQL Server. Mesmo possuindo uma maior experiência em atuar no desenvolvimento back-end, também estou familiarizado com tecnologias relacionadas ao front-end, como HTML, CSS e JavaScript.
+Tenho experiência em todas as etapas do desenvolvimento, desde a concepção até a implementação e manutenção, além da otimização de sistemas. Conheço conceitos como ASP.NET, MVC, APIs, Entity Framework, SQL Server, Microsoft Azure e Azure Devops. Embora minha forte experiência esteja no back-end, também estou familiarizado com HTML, CSS e JavaScript no front-end.
 
-Além das habilidades técnicas, procuro trabalhar de forma colaborativa com os membros da equipe, contribuindo para a criação de um ambiente de trabalho positivo e produtivo. Sempre procuro lidar com situações desafiadoras com eficiência e eficácia.
+Valorizo a colaboração em equipe e busco sempre contribuir para um ambiente de trabalho positivo. Enfrento desafios de forma eficaz e sou comprometido em atender às necessidades dos clientes.
 
-Em resumo, busco sempre ser um profissional dedicado e comprometido em criar soluções eficientes e inovadoras para as necessidades dos clientes. Se você está procurando um especialista em desenvolvimento web com experiência na plataforma Microsoft .NET e linguagem de programação C#, acredito que posso ajudar!
-
+Se você precisa de um especialista em desenvolvimento web com expertise em .NET e C#, estou à disposição para ajudar!
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlnpinheiro&show_icons=true&theme=merko&hide=contribs) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlnpinheiro&layout=compact&theme=merko)
