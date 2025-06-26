@@ -17,13 +17,9 @@ Here are some ideas to get you started:
 
 ### Olá! 👋
 
-Desde 2004, atuo no desenvolvimento de aplicações web com a plataforma Microsoft .NET e a linguagem C#. Minha especialização é criar soluções inovadoras e eficientes, utilizando tecnologias avançadas.
+Atuo com desenvolvimento web em .NET e C# desde 2004, criando soluções eficientes e inovadoras. Tenho experiência em todo o ciclo de desenvolvimento, com foco em back-end (ASP.NET, MVC, APIs, Entity Framework, SQL Server), além de conhecimentos em Azure, DevOps e noções de front-end (HTML, CSS, JavaScript).
 
-Tenho experiência em todas as etapas do desenvolvimento, desde a concepção até a implementação e manutenção, além da otimização de sistemas. Conheço conceitos como ASP.NET, MVC, APIs, Entity Framework, SQL Server, Microsoft Azure e Azure Devops. Embora minha forte experiência esteja no back-end, também estou familiarizado com HTML, CSS e JavaScript no front-end.
-
-Valorizo a colaboração em equipe e busco sempre contribuir para um ambiente de trabalho positivo. Enfrento desafios de forma eficaz e sou comprometido em atender às necessidades dos clientes.
-
-Se você precisa de um especialista em desenvolvimento web com expertise em .NET e C#, estou à disposição para ajudar!
+Sou colaborativo, comprometido com resultados e pronto para encarar desafios técnicos. Se precisa de um especialista em .NET, posso ajudar!
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlnpinheiro&show_icons=true&theme=merko&hide=contribs) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlnpinheiro&layout=compact&theme=merko)
